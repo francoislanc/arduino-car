@@ -3,6 +3,7 @@
 ## Original RC car
 
 - Nikko RDC-12600
+
 ![rc_car](docs/rc_car.jpg)
 
 ## Components
